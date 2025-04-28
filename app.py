@@ -44,12 +44,12 @@ def add_custom_styling():
         padding: 1rem;
         box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         margin-bottom: 1rem;
-        border-left: 4px solid #3B82F6;
+        border-left: 4px solid #00FF00;
     }
     .metric-value {
         font-size: 1.8rem;
         font-weight: bold;
-        color: #1E3A8A;
+        color: #00FF00;
     }
     .metric-label {
         font-size: 0.9rem;
@@ -76,7 +76,7 @@ def add_custom_styling():
         font-weight: 500;
     }
     .stTabs [aria-selected="true"] {
-        background-color: #3B82F6;
+        background-color: #00FF00;
         color: white;
     }
     </style>
