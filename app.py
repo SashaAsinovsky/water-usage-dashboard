@@ -642,7 +642,7 @@ class WaterUsageDashboard:
             x=yoy_df['year'],
             y=yoy_df['usage_change'],
             name='Usage Change (%)',
-            marker_color='#3B82F6',
+            marker_color='#AB2330',
             hovertemplate='Year: %{x}<br>Usage Change: %{y:.1f}%<extra></extra>'
         ))
         
