@@ -281,7 +281,7 @@ class WaterUsageDashboard:
             y='usage',
             title='Annual Water Usage (2011-2023)',
             labels={'year': 'Year', 'usage': 'Water Usage (cubic feet)'},
-            color_discrete_sequence=['#3B82F6'],
+            color_discrete_sequence=['#7851A9'],
             text_auto='.2s'
         )
         
