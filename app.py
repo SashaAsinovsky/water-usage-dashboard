@@ -213,7 +213,7 @@ class WaterUsageDashboard:
                 x=self.df['year'], 
                 y=self.df['usage'], 
                 name="Water Usage",
-                marker_color='#3B82F6',
+                marker_color='#AB2330',
                 hovertemplate='Year: %{x}<br>Usage: %{y:,.0f} cubic feet<extra></extra>'
             ),
             secondary_y=False,
