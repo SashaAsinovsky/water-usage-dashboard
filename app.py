@@ -99,7 +99,7 @@ class WaterUsageDashboard:
             {'year': 2016, 'usage': 1711350, 'cost': 201544.00, 'costPerUnit': 0.1178},
             {'year': 2017, 'usage': 1607100, 'cost': 194743.00, 'costPerUnit': 0.1212},
             {'year': 2018, 'usage': 1800750, 'cost': 218194.00, 'costPerUnit': 0.1212},
-            {'year': 2019, 'usage': 834500, 'cost': 114822.00, 'costPerUnit': 0.1376},
+            {'year': 2019, 'usage': 1207500, 'cost': 149965.00, 'costPerUnit': 0.1240},
             {'year': 2020, 'usage': 1148800, 'cost': 122968.00, 'costPerUnit': 0.1070},
             {'year': 2021, 'usage': 1035350, 'cost': 126298.00, 'costPerUnit': 0.1220},
             {'year': 2022, 'usage': 1272460, 'cost': 165442.70, 'costPerUnit': 0.1300},
